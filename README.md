@@ -1,3 +1,3 @@
-# elegans
+# A method using CO2 anesthesia to collect embryos for microinjection in Drosophila elegans
 
 A key step for genetic transformation of animal hosts is collecting enough embryos for microinjection. In Drosophila melanogaster, fertile females will often lay hundreds of embryos when placed on a grape plate with yeast. In other Drosophila species, however, females typically lay few if any embryos under similar conditions, hindering efforts to inject genetic reagents to create new mutants or markers for downstream genetic analyses. Here, using the species Drosophila elegans, we describe a method using CO2 anesthesia to collect embryos for microinjection. This technique allowed us to collect and inject enough embryos for CRISPR/Cas9 gene editing in this non-model species, resulting in a null allele of the ebony gene. 
